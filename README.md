@@ -1,13 +1,13 @@
 # Title
 
-- [Rotating Navigation](#rotating-navigation)
+- [Title](#title)
   - [Deployment](#deployment)
   - [Description](#description)
   - [Screenshots](#screenshots)
 
 ## Deployment
 
-- Checkout deployment at <https://gagandeep39.github.io/>
+- Checkout deployment at <https://gagandeep39.github.io/css-search-widget/>
 
 ## Description
 
